@@ -42,30 +42,33 @@ html,body,div,span,applet,object,iframe,a,abbr,acronym,address,big,cite,code,del
 }
 
 .image1 {
-   border-radius: 50px;
-   width: 100%;
+   border-radius: 50%;
+   width: 25%;
    height: auto;
+}
+
+.boxWithin{
+    padding: 0% 0% 50% 0%;
 }
 
 h1 {
     font-family: 'Chelsea Market';
     font-size: 450%;
-    margin: 2% 0 2% 38%;
+    padding: 0% 0% 0% 38%;
 }
 
 .comeExplore{
     font-family: 'Roboto Mono';
     font-size: 150%;
     text-align: center;
-    margin: 2.5% 0% 0% 25%;
+    padding: 2% 0% 2% 28%;
 }
 
 .alwaysOpen{
     font-family: 'Roboto Mono';
     font-size: 150%;
     text-align: center;
-    margin: 2% 0% 5% 25%;
-    padding: 0% 20%;
+    padding: 0% 25% 4% 50%;
 }
 
 p{
@@ -113,6 +116,8 @@ p{
 span{
     font-weight: bolder;
 }
+
+
 
 footer{
     background-color: #F9E7DC;
